@@ -1,0 +1,50 @@
+body {
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #337ab7;
+  color: #fdffff;
+  border-style: none;
+  border-radius: 8px;
+}
+
+input {
+  height: 20px;
+  border-radius: 4px;
+}
+
+#result-erea {
+  margin-top: 20px;
+  padding: 10px;
+  border: 2px solid #fdffff;
+  border-radius: 8px;
+}
+
+#tweet-erea a {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 8px 20px;
+  background-color: #000000;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+#tweet-erea a.line-button {
+  background-color: #06c755;
+  margin-left: 8px;
+}
+
+#tweet-erea button {
+  margin-top: 16px;
+  margin-left: 8px;
+  background-color: #fdffff;
+  color: #333333;
+}
